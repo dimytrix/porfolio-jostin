@@ -59,11 +59,11 @@ const about = () => {
                     <div className='grid w-full grid-cols-8 gap-16 sm:gap-8'>
                         <div className='col-span-3 flex flex-col items-start justify-start xl:col-span-4 md:order-2 md:col-span-8'>
                             <h2 className='mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light'>Biography</h2>
-                            <p>Hi, I'm JRCode, a web developer and designer, passionate about creating beautiful, functional, and user-centered digital experiences. With 1 year of experience in web pages, I'm always looking for new and innovative ways to bring my clients' visions to life.</p>
+                            <p>Hi, I am JRCode, a web developer and designer, passionate about creating beautiful, functional, and user-centered digital experiences. With 1 year of experience in web pages, I am always looking for new and innovative ways to bring my clients visions to life.</p>
 
-                            <p>I believe that design is more than just making things look pretty: it's about solving problems and creating intuitive and enjoyable experiences for users.</p>
+                            <p>I believe that design is more than just making things look pretty: its about solving problems and creating intuitive and enjoyable experiences for users.</p>
 
-                            <p>Whether I'm working on a website, a mobile application, or another digital product, I bring my commitment to design excellence and user-centered thinking to every project I work on. I look forward to the opportunity to contribute my skills and passion to your next project.</p>
+                            <p>Whether I am working on a website, a mobile application, or another digital product, I bring my commitment to design excellence and user-centered thinking to every project I work on. I look forward to the opportunity to contribute my skills and passion to your next project.</p>
                         </div>
 
 
